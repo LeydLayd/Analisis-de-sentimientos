@@ -25,7 +25,7 @@ Este proyecto esta desarrollado tanto en Google Colaboratory en linea como una v
 
 
 ## Requisitos Colaboratory
-Para ejecutarlo este proyecto en Google Colaboratory([Google Colab](https://colab.research.google.com/?hl=es)) solo necesita de una cuenta de Google.
+Para ejecutar este proyecto en Google Colaboratory([Google Colab](https://colab.research.google.com/?hl=es)) solo necesita de una cuenta de Google.
 ## Uso
 Sigue estos pasos
 
