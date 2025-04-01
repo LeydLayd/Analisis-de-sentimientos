@@ -57,6 +57,7 @@ Asegurate de tener instaladas las siguientes librerias antes de ejecutar el codi
 ### Entrenar el modelo
 
 Ejecuta el siguiente comando para procesar el modelo y evaluar su rendimiento:
+
 **Windows:**
 
     python main.py
@@ -66,6 +67,7 @@ Ejecuta el siguiente comando para procesar el modelo y evaluar su rendimiento:
 
 ### Probar el modelo
 Para evaluar los textos, usa el script `test_red.py` en el cual se te mostrara una ventana para poder elegir el texto a analizar desde el explorador de archivos:
+
 **Windows:**
 
     python test_model.py
